@@ -23,8 +23,3 @@
   <a href="https://www.applitools.com/" target="_blank" rel="noreferrer"> <img src="https://www.applitools.com/imgs/applitools-logo.svg" alt="applitools" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact" alt="your-github-username" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&locale=en" alt="your-github-username" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="your-github-username" /></p>
