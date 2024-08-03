@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://hd.wallpaperswide.com/thumbs/beawesome-t2.jpg" alt="Be Awesome" style="width: 50%; height: 50; max-width: 1600px; max-height: 800px;" />
+</p>
+
+
 ## Hey, I'm Nayan!
 
 ### About Me 👩‍💻
-➤ I’m a passionate **Automation Test Engineer** with a focus on ensuring software quality through robust testing and automation strategies. </br>
-➤ Always eager to learn and explore new technologies to improve my skills and contribute to impactful projects. </br>
+➤ Automation Test Engineer with a knack for building and optimizing robust testing frameworks to ensure top-notch software quality. </br>
+➤ Currently contributing my skills at Hexaware Technologies, where I design and implement automation/Manual solutions. </br>
+➤ Passionate about continuous learning and staying updated with the latest advancements in testing tools and practices. </br>
+➤ Driven by a desire to enhance software reliability and performance through meticulous automation strategies. </br>
+➤ Enthusiastic about collaborating on open-source projects and sharing knowledge with the testing community. </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
