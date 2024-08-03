@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nayan-wankhade-7a782a206/" target="blank"><img align="center" src="https://www.svgrepo.com/show/447138/linkedin-fill.svg" alt="nayan-wankhade-7a782a206" height="30" width="40" /></a>
-<a href="mailto:Workfornayan@gmail"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Workfornayan@gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nayan-wankhade-7a782a206/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="nayan-wankhade-7a782a206" height="30" width="40" /></a>
+<a href="mailto:Workfornayan@gmail"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Workfornayan@gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
