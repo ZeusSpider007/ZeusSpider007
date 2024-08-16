@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hd.wallpaperswide.com/thumbs/beawesome-t2.jpg" alt="Be Awesome" style="width: 50%; height: 50; max-width: 1600px; max-height: 800px;" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg" alt="Be Awesome" style="width: 50%; height: 50; max-width: 1600px; max-height: 1600px;" />
 </p>
 
 
