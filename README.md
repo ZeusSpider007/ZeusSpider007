@@ -26,6 +26,7 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/> </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" alt="cucumber" width="40" height="40"/> </a>
   <a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://qatestlab.com/assets/Uploads/testng1.png" alt="testng" width="40" height="40"/> </a>
+   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
