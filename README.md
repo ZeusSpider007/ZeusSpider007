@@ -22,7 +22,6 @@
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> </a>
-   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/> </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" alt="cucumber" width="40" height="40"/> </a>
   <a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://qatestlab.com/assets/Uploads/testng1.png" alt="testng" width="40" height="40"/> </a>
